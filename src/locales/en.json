@@ -1,0 +1,13 @@
+{
+  "global": {
+    "appName": "test i18n"
+  },
+  "components": {
+    "articleCard": {
+      "test": "test"
+    },
+    "localeSelect": {
+      "test": "test"
+    }
+  }
+}
