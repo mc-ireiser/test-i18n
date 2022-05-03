@@ -2,7 +2,7 @@
 
 Live-on:
 
-https://lively-faun-8a595a.netlify.app/
+https://test-i18n-05-2022.netlify.app/
 
 ## Project setup
 
